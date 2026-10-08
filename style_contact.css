@@ -1,0 +1,15 @@
+nav {
+    background-color: #1a3a5c;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+form {
+    width: 300px;
+    margin: 20px auto;
+}
